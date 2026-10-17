@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Mark Roderick Salise, Junior Software Engineer">
+  <rect width="1200" height="220" rx="16" fill="#0a192f"/>
+  <rect x="0" y="0" width="8" height="220" rx="4" fill="#64ffda"/>
+  <g fill="none" stroke="#1d3557" stroke-width="1">
+    <path d="M820 40h300M860 80h260M900 120h220M940 160h180"/>
+  </g>
+  <circle cx="1120" cy="40" r="4" fill="#64ffda"/><circle cx="1120" cy="80" r="4" fill="#64ffda"/><circle cx="1120" cy="120" r="4" fill="#64ffda"/><circle cx="1120" cy="160" r="4" fill="#64ffda"/>
+  <text x="64" y="104" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#e6f1ff">Mark Roderick Salise</text>
+  <text x="66" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#64ffda">Junior Software Engineer</text>
+</svg>
