@@ -6,10 +6,6 @@
   </picture>
 </a>
 
-<p>
-  <img alt="Full-stack TypeScript, Python, Hyperledger" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=2BC4A6&vCenter=true&width=420&lines=Full-stack+TypeScript;Python;Hyperledger">
-</p>
-
 Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with TypeScript and Python, plus some blockchain work with Hyperledger. Open to junior software engineer roles.
 
 <p>
@@ -47,14 +43,11 @@ Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with Ty
 
 ### More projects
 
-- **[Collaborative Doc Editor](https://github.com/Tofuwuuu/Collaborative-Real-Time-Document-Editor)**: Edit documents together in real time. [Live](https://collaborative-real-time-document-ed.vercel.app)
+- **[Collaborative Doc Editor](https://github.com/Tofuwuuu/Collaborative-Real-Time-Document-Editor)**: Edit documents together in real time. [Live](https://collaborative-real-time-document-ed.vercel.app) (first load takes about 30s)
 - **[Hyperledger Document Verification](https://github.com/Tofuwuuu/Hyperledger-Document-Verification-)**: Verify documents on a permissioned blockchain. The screens are live, and the full app runs locally. [Demo](https://hyperledger-document-verification.vercel.app)
-- **[Personal Website](https://github.com/Tofuwuuu/PERSONAL-WEBSITE)**: My portfolio. [Live](https://markroderick.vercel.app)
 - **[Folder Storage](https://github.com/Tofuwuuu/Folder-Storage)**: File metadata in a folder hierarchy on Hyperledger Fabric.
 - **[API Rate Limiting Gateway](https://github.com/Tofuwuuu/API-Rate-Limiting-Gateway-System)**: A lightweight API gateway.
 - **[Distributed Job Queue](https://github.com/Tofuwuuu/Distributed-Job-Queue)**: A small job queue in the spirit of Celery.
-
-<sub>The Doc Editor's server sleeps when idle, so the first load can take about 30 seconds.</sub>
 
 ### Contact
 
