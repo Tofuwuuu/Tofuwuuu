@@ -59,7 +59,7 @@ Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with Ty
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/Tofuwuuu/Folder-Storage">Folder Storage</a></b><br>
-      <img src="assets/labels/hyperledger.svg" alt="Hyperledger" height="22">
+      <img src="assets/labels/hyperledger.svg" alt="Hyperledger" height="22"> <img src="assets/labels/go.svg" alt="Go" height="22">
       <p>Stores file records in a folder tree on Hyperledger Fabric, with per organization read access you can grant or revoke.</p>
       <p><a href="https://github.com/Tofuwuuu/Folder-Storage">Code</a></p>
     </td>

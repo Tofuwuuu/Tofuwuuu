@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-label=""><rect width="1200" height="48" rx="12" fill="#0a192f"/><path d="M40 24h480M680 24h480" stroke="#1d3557"/><circle cx="560" cy="24" r="3" fill="#64ffda"/><circle cx="580" cy="24" r="3" fill="#64ffda"/><circle cx="600" cy="24" r="3" fill="#64ffda"/><circle cx="620" cy="24" r="3" fill="#64ffda"/><circle cx="640" cy="24" r="3" fill="#64ffda"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-label="">
+  <style>
+  .dot{opacity:.55;animation:pulse 5s ease-in-out infinite}
+  .d2{animation-delay:.5s}.d3{animation-delay:1s}.d4{animation-delay:1.5s}.d5{animation-delay:2s}
+  @keyframes pulse{0%,50%,100%{opacity:.55}25%{opacity:1}}
+  .draw{stroke-dasharray:480;stroke-dashoffset:480;animation:draw 4s ease-in-out infinite}
+  @keyframes draw{0%{stroke-dashoffset:480;opacity:0}15%{opacity:1}55%{stroke-dashoffset:0;opacity:1}85%{stroke-dashoffset:0;opacity:0}100%{stroke-dashoffset:480;opacity:0}}
+  @media (prefers-reduced-motion: reduce){.dot,.draw{animation:none}.dot{opacity:1}.draw{stroke-dashoffset:0;opacity:1}}
+</style>
+  <rect width="1200" height="48" rx="12" fill="#0a192f"/>
+  <path d="M40 24h480M680 24h480" stroke="#1d3557"/>
+  <path class="draw" d="M40 24h480" stroke="#64ffda" stroke-width="1.5"/>
+  <path class="draw" d="M1160 24h-480" stroke="#64ffda" stroke-width="1.5"/>
+  <circle class="dot d1" cx="560" cy="24" r="3" fill="#64ffda"/><circle class="dot d2" cx="580" cy="24" r="3" fill="#64ffda"/><circle class="dot d3" cx="600" cy="24" r="3" fill="#64ffda"/><circle class="dot d4" cx="620" cy="24" r="3" fill="#64ffda"/><circle class="dot d5" cx="640" cy="24" r="3" fill="#64ffda"/>
+</svg>
