@@ -1,40 +1,54 @@
-# Hi, I'm Mark 👋
+<a href="https://markroderick.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img alt="Mark Roderick Salise, Junior Software Engineer" src="assets/banner-dark.svg" width="100%">
+  </picture>
+</a>
 
-Junior Software Engineer from **San Pedro, Laguna, Philippines**.  
-I build full-stack apps with **TypeScript**, **Python**, and a bit of **blockchain / Hyperledger**.
+Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with TypeScript and Python, plus some blockchain work with Hyperledger. Open to junior software engineer roles.
 
-Open to junior software engineer roles — TypeScript, Python, and full-stack.
-
-🌐 Portfolio: [markroderick.vercel.app](https://markroderick.vercel.app)  
-💻 GitHub: [github.com/Tofuwuuu](https://github.com/Tofuwuuu)  
-🔗 LinkedIn: [mark-roderick-salise](https://www.linkedin.com/in/mark-roderick-salise-8ab9161a4/)
-
----
+<p>
+  <img alt="TypeScript, Python, Next.js, PostgreSQL, Docker" src="https://skillicons.dev/icons?i=ts,python,nextjs,postgres,docker&perline=5" height="40">
+</p>
 
 ### Featured work
 
-Same order as my pinned repos. **Live** means I got HTTP 200 from that URL on 23 September 2026. Hosted pages that do not have a working API are not listed as live products.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://gym-app-tracker-gamma.vercel.app"><img src="assets/cards/gym.png" alt="Gym App Tracker screenshot" width="100%"></a>
+      <p><b>Gym App Tracker</b><br>Log sets, time rest, and track workouts. Full-stack TypeScript.</p>
+      <p><a href="https://gym-app-tracker-gamma.vercel.app">Live</a> · <a href="https://github.com/Tofuwuuu/Gym-App-Tracker">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://expense-tracker-brown-zeta-75.vercel.app"><img src="assets/cards/expense.png" alt="Expense Tracker screenshot" width="100%"></a>
+      <p><b>Expense Tracker</b><br>Track spending by day, month, and category. Saves in your browser.</p>
+      <p><a href="https://expense-tracker-brown-zeta-75.vercel.app">Live</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ai-ops-assistant-wheat.vercel.app"><img src="assets/cards/aiops.png" alt="AI Ops Assistant screenshot" width="100%"></a>
+      <p><b>AI Ops Assistant</b><br>An AI helper for ops and incident work.</p>
+      <p><a href="https://ai-ops-assistant-wheat.vercel.app">Live</a> · <a href="https://github.com/Tofuwuuu/AI-Ops-Assistant">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://smartdoc-analyzer.vercel.app"><img src="assets/cards/smartdoc.png" alt="SmartDoc Analyzer screenshot" width="100%"></a>
+      <p><b>SmartDoc Analyzer</b><br>Upload a document and AI extracts, summarizes, and structures its content.</p>
+      <p><a href="https://smartdoc-analyzer.vercel.app">Live</a> · <a href="https://github.com/Tofuwuuu/SmartDoc-Analyzer">Code</a></p>
+    </td>
+  </tr>
+</table>
 
-| Project | Stack | What it is | Live |
-| --- | --- | --- | --- |
-| [Personal Website](https://github.com/Tofuwuuu/PERSONAL-WEBSITE) | TypeScript | Portfolio site | **Live** — [markroderick.vercel.app](https://markroderick.vercel.app) |
-| [Hyperledger Document Verification](https://github.com/Tofuwuuu/Hyperledger-Document-Verification-) | Hyperledger Fabric, JS | Capstone — verify documents on a permissioned blockchain | **UI shell / API offline** — the [UI](https://hyperledger-document-verification.vercel.app) loads; the Railway API behind it does not. Full stack is local |
-| [AI Ops Assistant](https://github.com/Tofuwuuu/AI-Ops-Assistant) | TypeScript | Archivist — AI helper for ops / incident-style workflows | **Live** — [UI](https://ai-ops-assistant-wheat.vercel.app) and [API health](https://backend-production-cd8c.up.railway.app/health) |
-| [Gym App Tracker](https://github.com/Tofuwuuu/Gym-App-Tracker) | TypeScript | Workout tracker you can fork and run yourself | **Local / Docker** |
-| [Collaborative Doc Editor](https://github.com/Tofuwuuu/Collaborative-Real-Time-Document-Editor) | TypeScript | Real-time Google Docs–style editing | **Live FE + Render API** — [frontend](https://collaborative-real-time-document-ed.vercel.app) and [API health](https://crde-backend.onrender.com/api/health). An older Vercel frontend is offline |
-| [SmartDoc Analyzer](https://github.com/Tofuwuuu/SmartDoc-Analyzer) | Python | AI document extract / summarize / structure | **Local / Docker** |
+### More projects
 
-The collaborative editor’s Render API can be slow on the first request after idle. The old frontend host `frontend-sable-kappa-64.vercel.app` returns deployment-not-found.
+- **[Collaborative Doc Editor](https://github.com/Tofuwuuu/Collaborative-Real-Time-Document-Editor)**: Edit documents together in real time. [Live](https://collaborative-real-time-document-ed.vercel.app) (first load takes about 30 seconds)
+- **[Hyperledger Document Verification](https://github.com/Tofuwuuu/Hyperledger-Document-Verification-)**: Verify documents on a permissioned blockchain. The screens are live, and the full app runs locally. [Demo](https://hyperledger-document-verification.vercel.app)
+- **[Folder Storage](https://github.com/Tofuwuuu/Folder-Storage)**: Keeps file records in nested folders on Hyperledger Fabric.
+- **[API Rate Limiting Gateway](https://github.com/Tofuwuuu/API-Rate-Limiting-Gateway-System)**: An API gateway that limits how often clients can call your API.
+- **[Distributed Job Queue](https://github.com/Tofuwuuu/Distributed-Job-Queue)**: A small distributed job queue that runs tasks in the background.
 
----
+### Contact
 
-### Skills
-
-`TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Node.js` · `Hyperledger Fabric` · `Solidity` · `PostgreSQL` · `Git`
-
-### Currently
-
-- Sharpening a tight public portfolio for junior SE roles  
-- Publishing source on GitHub, with a few hosted demos and the rest as local Docker stacks  
-
-Thanks for stopping by — feel free to open an issue or say hi.
+[Portfolio](https://markroderick.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mark-roderick-salise-8ab9161a4/) · [GitHub](https://github.com/Tofuwuuu)
