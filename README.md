@@ -43,7 +43,7 @@ Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with Ty
 
 ### More projects
 
-- **[Collaborative Doc Editor](https://github.com/Tofuwuuu/Collaborative-Real-Time-Document-Editor)**: Edit documents together in real time. [Live](https://collaborative-real-time-document-ed.vercel.app) (first load takes about 30s)
+- **[Collaborative Doc Editor](https://github.com/Tofuwuuu/Collaborative-Real-Time-Document-Editor)**: Edit documents together in real time. [Live](https://collaborative-real-time-document-ed.vercel.app) (first load takes about 30 seconds)
 - **[Hyperledger Document Verification](https://github.com/Tofuwuuu/Hyperledger-Document-Verification-)**: Verify documents on a permissioned blockchain. The screens are live, and the full app runs locally. [Demo](https://hyperledger-document-verification.vercel.app)
 - **[Folder Storage](https://github.com/Tofuwuuu/Folder-Storage)**: Keeps file records in nested folders on Hyperledger Fabric.
 - **[API Rate Limiting Gateway](https://github.com/Tofuwuuu/API-Rate-Limiting-Gateway-System)**: An API gateway that limits how often clients can call your API.
