@@ -45,19 +45,19 @@ Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with Ty
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td colspan="2" width="33%" valign="top">
       <b><a href="https://github.com/Tofuwuuu/Collaborative-Real-Time-Document-Editor">Collaborative Doc Editor</a></b><br>
       <img src="assets/labels/typescript.svg" alt="TypeScript" height="22">
       <p>Edit documents together in real time.</p>
       <p><a href="https://collaborative-real-time-document-ed.vercel.app">Live</a> (first load takes about 30 seconds) · <a href="https://github.com/Tofuwuuu/Collaborative-Real-Time-Document-Editor">Code</a></p>
     </td>
-    <td width="33%" valign="top">
+    <td colspan="2" width="33%" valign="top">
       <b><a href="https://github.com/Tofuwuuu/Hyperledger-Document-Verification-">Hyperledger Document Verification</a></b><br>
       <img src="assets/labels/hyperledger.svg" alt="Hyperledger" height="22">
       <p>Verify documents on a permissioned blockchain.</p>
       <p><a href="https://hyperledger-document-verification.vercel.app">Demo (screens only)</a> · <a href="https://github.com/Tofuwuuu/Hyperledger-Document-Verification-">Code</a></p>
     </td>
-    <td width="33%" valign="top">
+    <td colspan="2" width="33%" valign="top">
       <b><a href="https://github.com/Tofuwuuu/Folder-Storage">Folder Storage</a></b><br>
       <img src="assets/labels/hyperledger.svg" alt="Hyperledger" height="22"> <img src="assets/labels/go.svg" alt="Go" height="22">
       <p>Keeps file records in a folder tree on Hyperledger Fabric, and lets you grant or revoke each organization's read access.</p>
@@ -65,25 +65,24 @@ Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with Ty
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td colspan="3" width="50%" valign="top">
       <b><a href="https://github.com/Tofuwuuu/API-Rate-Limiting-Gateway-System">API Rate Limiting Gateway</a></b><br>
       <img src="assets/labels/python.svg" alt="Python" height="22">
       <p>Rate-limits each API key with a sliding window and returns a 429 when a client goes over.</p>
       <p><a href="https://github.com/Tofuwuuu/API-Rate-Limiting-Gateway-System">Code</a></p>
     </td>
-    <td width="33%" valign="top">
+    <td colspan="3" width="50%" valign="top">
       <b><a href="https://github.com/Tofuwuuu/Distributed-Job-Queue">Distributed Job Queue</a></b><br>
       <img src="assets/labels/python.svg" alt="Python" height="22">
-      <p>Runs background jobs by priority, retries failures up to three times, then moves them to a dead letter queue.</p>
+      <p>Runs background jobs by priority, retries failures up to each job's limit, then moves them to a dead letter queue.</p>
       <p><a href="https://github.com/Tofuwuuu/Distributed-Job-Queue">Code</a></p>
     </td>
-    <td width="33%"></td>
   </tr>
 </table>
 
 ### Contact
 
-<p align="center">
+<p>
   <a href="https://markroderick.vercel.app"><img src="assets/contact/portfolio.svg" alt="Portfolio" height="40"></a>&nbsp;
   <a href="https://www.linkedin.com/in/mark-roderick-salise-8ab9161a4/"><img src="assets/contact/linkedin.svg" alt="LinkedIn" height="40"></a>&nbsp;
   <a href="https://github.com/Tofuwuuu"><img src="assets/contact/github.svg" alt="GitHub" height="40"></a>
