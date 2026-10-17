@@ -74,7 +74,7 @@ Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with Ty
     <td colspan="3" width="50%" valign="top">
       <b><a href="https://github.com/Tofuwuuu/Distributed-Job-Queue">Distributed Job Queue</a></b><br>
       <img src="assets/labels/python.svg" alt="Python" height="22">
-      <p>Runs background jobs by priority, retries failures up to three times, then moves them to a dead letter queue.</p>
+      <p>Runs background jobs by priority, tries each job up to three times, then moves it to a dead letter queue.</p>
       <p><a href="https://github.com/Tofuwuuu/Distributed-Job-Queue">Code</a></p>
     </td>
   </tr>
