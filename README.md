@@ -80,6 +80,16 @@ Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with Ty
   </tr>
 </table>
 
+### Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tofuwuuu/Tofuwuuu/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tofuwuuu/Tofuwuuu/output/github-snake.svg">
+    <img alt="Animation of my GitHub contributions over the past year." src="https://raw.githubusercontent.com/Tofuwuuu/Tofuwuuu/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
 ### Contact
 
 <p>
