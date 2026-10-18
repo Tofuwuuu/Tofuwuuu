@@ -52,10 +52,10 @@ Junior Software Engineer from San Pedro, Laguna. I build full-stack apps with Ty
       <p><a href="https://collaborative-real-time-document-ed.vercel.app">Live</a> (first load takes about 30 seconds) · <a href="https://github.com/Tofuwuuu/Collaborative-Real-Time-Document-Editor">Code</a></p>
     </td>
     <td colspan="2" width="33%" valign="top">
-      <b><a href="https://github.com/Tofuwuuu/Hyperledger-Document-Verification-">Hyperledger Document Verification</a></b><br>
+      <b><a href="https://github.com/Tofuwuuu/Hyperledger-Document-Verification">Hyperledger Document Verification</a></b><br>
       <img src="assets/labels/hyperledger.svg" alt="Hyperledger" height="22">
       <p>Verify documents on a permissioned blockchain.</p>
-      <p><a href="https://hyperledger-document-verification.vercel.app">Demo (screens only)</a> · <a href="https://github.com/Tofuwuuu/Hyperledger-Document-Verification-">Code</a></p>
+      <p><a href="https://hyperledger-document-verification.vercel.app">Demo (screens only)</a> · <a href="https://github.com/Tofuwuuu/Hyperledger-Document-Verification">Code</a></p>
     </td>
     <td colspan="2" width="33%" valign="top">
       <b><a href="https://github.com/Tofuwuuu/Folder-Storage">Folder Storage</a></b><br>
